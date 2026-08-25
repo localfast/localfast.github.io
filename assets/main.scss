@@ -1,0 +1,51 @@
+---
+---
+
+@import "minima";
+
+.follow-cta {
+  margin-top: 2rem;
+  padding: 1.25rem 1.5rem;
+  border: 1px solid #e8e8e8;
+  border-radius: 6px;
+  background: #fafafa;
+}
+
+.follow-cta p {
+  margin-bottom: 0;
+}
+
+.home .page-heading {
+  margin-bottom: 0.5rem;
+}
+
+.home > p:first-of-type {
+  margin-bottom: 1.5rem;
+}
+
+.home h2:not(.post-list-heading) {
+  margin-top: 1.75rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.25rem;
+}
+
+.home ul:not(.post-list) {
+  margin-bottom: 0;
+  padding-left: 1.25rem;
+}
+
+.home ul:not(.post-list) li {
+  margin-bottom: 0.75rem;
+}
+
+.home .post-list-heading {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #e8e8e8;
+}
+
+.site-footer .footer-col-6 {
+  float: none;
+  width: 100%;
+  padding-left: 0;
+}

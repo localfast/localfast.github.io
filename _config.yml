@@ -1,0 +1,20 @@
+title: Cristian Marinescu
+description: Articles on web development and building websites for beginners and small businesses.
+url: "https://localfast-org.github.io"
+baseurl: ""
+
+theme: minima
+
+permalink: /blog/:title/
+
+author:
+  name: Cristian Marinescu
+
+twitter_username: cristianvmac
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
