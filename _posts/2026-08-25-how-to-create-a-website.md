@@ -41,6 +41,5 @@ Best of all, it's completely free from your first line of code to your live depl
 
 ---
 
-**Want to build it yourself?** Explore more guides at [Websitero](https://websitero.com).
+**Want to build it yourself?** Explore more guides at [Websitero](https://websitero.com/createyourwebsite).
 
-**Prefer to skip the technical work?** [Local Fast Web Designs](https://localfastwebdesigns.com) builds fast, custom websites for businesses that want to go live without writing code.

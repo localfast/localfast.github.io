@@ -39,4 +39,4 @@ If a website is missing one of these principles, it is essentially broken. A bea
 
 ---
 
-**Need a website built for your business?** [Local Fast Web Designs](https://localfastwebdesigns.com) creates fast, professional sites for local businesses — no coding required on your end.
+**Need a website?** [Websitero](https://webstero.com/createyourwebsite) creates fast, professional sites for local businesses.

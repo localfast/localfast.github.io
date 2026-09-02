@@ -8,8 +8,8 @@ Welcome. Practical articles on web development and building websites for beginne
 
 ## What I do
 
+- **[Websitero](https://websitero.com)** — The Done-For-You Website Builder for Local Businesses. Custom-coded websites, built for you or DIY.
 - **[Local Fast Web Designs](https://localfastwebdesigns.com)** — A web design agency specializing in custom websites for the local market: NL, FR, and EN.
-- **[Websitero](https://websitero.com)** — Custom-coded websites for local businesses, done for you or DIY. Send your info, approve the design, go live. Or follow the docs and build from a kit.
 
 ## On this blog
 
